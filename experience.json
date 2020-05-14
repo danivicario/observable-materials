@@ -1,0 +1,521 @@
+{
+  "children": [
+    {
+      "name": "Work Experience",
+      "children": [
+        {
+          "name": "HSBC / 2014 - 2016",
+          "value": 2
+        },
+        {
+          "name": "Wunderman Salmon / 2014",
+          "value": 1.25
+        },
+        {
+          "name": "EF / 2010 - 2013",
+          "value": 2
+        },
+        {
+          "name": "Ebay / 2008 - 2009",
+          "value": 2
+        },
+        {
+          "name": "Brand 42 / 2014",
+          "value": 1.1
+        },
+        {
+          "name": "Ironhack / 2018 - currently",
+          "value": 2.5
+        },
+        {
+          "name": "Masmovil / 2017 - 2018",
+          "value": 2
+        },
+        {
+          "name": "Minsait / 2017",
+          "value": 1.5
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "children": [
+        {
+          "name": "Semantic layer",
+          "children": [
+            {
+              "name": "HTML5",
+              "value": 2
+            },
+            {
+              "name": "XHTML",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Agile methodologies",
+          "children": [
+            {
+              "name": "Scrum",
+              "value": 2
+            },
+            {
+              "name": "Kanban",
+              "value": 1.5
+            },
+            {
+              "name": "XP",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Experimenting with",
+          "children": [
+            {
+              "name": "VUEjs",
+              "value": 1
+            },
+            {
+              "name": "Pure functional programming",
+              "value": 1
+            },
+            {
+              "name": "Azure",
+              "value": 1
+            },
+            {
+              "name": "Webgl with Shaders",
+              "value": 2
+            },
+            {
+              "name": "Apache Spark",
+              "value": 1.5
+            },
+            {
+              "name": "MAX/MSP",
+              "value": 1
+            },
+            {
+              "name": "Advanced cinema 4d",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Version Control, continuous integration and delivery",
+          "children": [
+            {
+              "name": "GIT",
+              "value": 2
+            },
+            {
+              "name": "Bamboo",
+              "value": 2
+            },
+            {
+              "name": "Jenkins",
+              "value": 1
+            },
+            {
+              "name": "Circle CI",
+              "value": 1.5
+            },
+            {
+              "name": "Github",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Design",
+          "children": [
+            {
+              "name": "Photoshop - Adobe Certified Expert",
+              "value": 4
+            },
+            {
+              "name": "After Effects",
+              "value": 4
+            },
+            {
+              "name": "Cinema 4D",
+              "value": 3.5
+            },
+            {
+              "name": "Sketch",
+              "value": 1
+            },
+            {
+              "name": "Illustrator",
+              "value": 1.2
+            },
+            {
+              "name": "Premiere",
+              "value": 2
+            },
+            {
+              "name": "Framer",
+              "value": 1
+            },
+            {
+              "name": "Figma",
+              "value": 1
+            },
+            {
+              "name": "Zeplin",
+              "value": 1.25
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "MongoDB (command line and Compass)",
+              "value": 2
+            },
+            {
+              "name": "Elastic Search",
+              "value": 1.5
+            },
+            {
+              "name": "MySQL",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Languages",
+          "children": [
+            {
+              "name": "JavaScript ES5-ES10",
+              "value": 2
+            },
+            {
+              "name": "Node.JS",
+              "value": 2
+            },
+            {
+              "name": "Processing",
+              "value": 1.5
+            },
+            {
+              "name": "Python",
+              "value": 1
+            },
+            {
+              "name": "PHP",
+              "value": 1.25
+            },
+            {
+              "name": "Actionscript 3",
+              "value": 1
+            },
+            {
+              "name": "Bash",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Development tools",
+          "children": [
+            {
+              "name": "NPM",
+              "value": 2
+            },
+            {
+              "name": "Webpack",
+              "value": 1.5
+            },
+            {
+              "name": "Rollup",
+              "value": 1
+            },
+            {
+              "name": "Gulp",
+              "value": 1
+            },
+            {
+              "name": "Yarn",
+              "value": 1
+            },
+            {
+              "name": "Postman",
+              "value": 1.5
+            },
+            {
+              "name": "Mongo Compass",
+              "value": 1.5
+            }
+          ]
+        },
+        {
+          "name": "Presentation layer",
+          "children": [
+            {
+              "name": "SASS",
+              "value": 2
+            },
+            {
+              "name": "Twitter Bootstrap",
+              "value": 1.5
+            },
+            {
+              "name": "Angular Material",
+              "value": 1
+            },
+            {
+              "name": "Materialize",
+              "value": 1
+            },
+            {
+              "name": "Bulma",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Backend layer",
+          "children": [
+            {
+              "name": "Express",
+              "value": 2
+            },
+            {
+              "name": "PassportJS",
+              "value": 1.25
+            },
+            {
+              "name": "Mongoose",
+              "value": 2
+            },
+            {
+              "name": "Handlebars",
+              "value": 2
+            },
+            {
+              "name": "Axios",
+              "value": 2
+            },
+            {
+              "name": "Heroku",
+              "value": 1.25
+            },
+            {
+              "name": "Bcrypt",
+              "value": 1.25
+            },
+            {
+              "name": "Apache + SSL",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Cloud",
+          "children": [
+            {
+              "name": "Docker",
+              "value": 1
+            },
+            {
+              "name": "SSH",
+              "value": 1
+            },
+            {
+              "name": "Command line",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Testing",
+          "children": [
+            {
+              "name": "Karma",
+              "value": 2
+            },
+            {
+              "name": "Jasmine",
+              "value": 2
+            },
+            {
+              "name": "PhantomJS",
+              "value": 1
+            },
+            {
+              "name": "Protractor",
+              "value": 1
+            },
+            {
+              "name": "Webdriver",
+              "value": 1
+            },
+            {
+              "name": "Jest",
+              "value": 1
+            },
+            {
+              "name": "Puppeteer",
+              "value": 1.5
+            }
+          ]
+        },
+        {
+          "name": "Semantic layer",
+          "children": [
+            {
+              "name": "ECMA 6/7/8/9",
+              "value": 2
+            },
+            {
+              "name": "Typescript",
+              "value": 2
+            },
+            {
+              "name": "Angular 1 to 8 (with Redux)",
+              "value": 1.75
+            },
+            {
+              "name": "React (with and without hooks)",
+              "value": 2
+            },
+            {
+              "name": "jQuery",
+              "value": 1.5
+            },
+            {
+              "name": "Underscore",
+              "value": 1.5
+            },
+            {
+              "name": "Websockets",
+              "value": 1.5
+            },
+            {
+              "name": "Ramda",
+              "value": 1
+            },
+            {
+              "name": "Redux",
+              "value": 1.8
+            },
+            {
+              "name": "GSAP",
+              "value": 1.7
+            },
+            {
+              "name": "Typescript",
+              "value": 2
+            },
+            {
+              "name": "MatterJS",
+              "value": 1.75
+            }
+          ]
+        },
+        {
+          "name": "Dataviz",
+          "children": [
+            {
+              "name": "D3",
+              "value": 3
+            },
+            {
+              "name": "Observable",
+              "value": 1.15
+            },
+            {
+              "name": "ThreeJS",
+              "value": 3.5
+            },
+            {
+              "name": "SVG",
+              "value": 1.75
+            },
+            {
+              "name": "HTML5 canvas",
+              "value": 4
+            },
+            {
+              "name": "DOM manipulation",
+              "value": 4
+            },
+            {
+              "name": "Illustrator",
+              "value": 1.5
+            },
+            {
+              "name": "Google Maps",
+              "value": 1.5
+            },
+            {
+              "name": "Grafana",
+              "value": 1.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interests",
+      "children": [
+        {
+          "name": "Maths",
+          "value": 2
+        },
+        {
+          "name": "Art",
+          "value": 2
+        },
+        {
+          "name": "Data visualisation",
+          "value": 3
+        },
+
+        {
+          "name": "Geometry",
+          "value": 2.5
+        },
+
+        {
+          "name": "Graphic design",
+          "value": 3
+        },
+
+        {
+          "name": "Photography",
+          "value": 3
+        },
+
+        {
+          "name": "Music",
+          "value": 2.1
+        },
+
+        {
+          "name": "Coding",
+          "value": 3
+        },
+
+        {
+          "name": "Science",
+          "value": 2.5
+        },
+
+        {
+          "name": "Futurism",
+          "value": 2.5
+        },
+
+        {
+          "name": "Sci-fi",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

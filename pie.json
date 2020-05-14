@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Communicator",
+    "value": 15
+  },
+  {
+    "name": "Teacher",
+    "value": 20
+  },
+  {
+    "name": "Engineer",
+    "value": 20
+  },
+  {
+    "name": "Visual artist",
+    "value": 20
+  },
+  {
+    "name": "Graphic designer",
+    "value": 10
+  },
+  {
+    "name": "Team Lead",
+    "value": 15
+  }
+]
